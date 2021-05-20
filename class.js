@@ -11,7 +11,7 @@
 
 
 // type 2
-
+  
 class Polygon{
    constructor(arr){
     this.arr=arr;
