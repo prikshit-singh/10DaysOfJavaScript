@@ -1,4 +1,16 @@
+// type 1
 
+// class Polygon{
+//     constructor(arr){
+//         this.arr=arr;
+//     }
+//     perimeter(){
+//        return this.arr.reduce((a,b)=>{return a+b})
+//     }
+// }
+
+
+// type 2
 
 class Polygon{
    constructor(arr){
